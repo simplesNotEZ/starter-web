@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
+Adding a line for rebasing example.
 
 ## Purpose
 
@@ -22,7 +23,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
-Please fork this repository and then issue Pull Requests for review.
+Please fork this repository and then issue Pull Requests for review. 
 
 ### Copyright
 
